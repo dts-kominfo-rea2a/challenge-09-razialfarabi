@@ -1,0 +1,19 @@
+.contact {
+    display: flex;
+    width: 500px;
+    background-color: brown;
+    border-radius: 20px;
+    padding: 10px;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+.contact img{
+    border-radius: 100%;
+    width: 30%;
+}
+
+.detailContact {
+    color: aliceblue;
+    width: 100%;
+}
